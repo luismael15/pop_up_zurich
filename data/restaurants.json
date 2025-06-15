@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Taco Vibes",
+    "type": "Mexican",
+    "open": "2025-06-15",
+    "close": "2025-07-10",
+    "avgPrice": 20,
+    "locationUrl": "https://maps.google.com",
+    "image": "https://via.placeholder.com/300x150",
+    "postalCode": "8001"
+  },
+  {
+    "name": "Sushi Pop",
+    "type": "Japanese",
+    "open": "2025-08-01",
+    "close": "2025-08-30",
+    "avgPrice": 30,
+    "locationUrl": "https://maps.google.com",
+    "image": "https://via.placeholder.com/300x150",
+    "postalCode": "8002"
+  }
+]
