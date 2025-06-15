@@ -14,6 +14,9 @@ The server starts on port 3001.
 
 ### Frontend
 
+Run the following commands from the **client** directory to install the
+frontend dependencies (including Tailwind's PostCSS plugin) and start Vite:
+
 ```bash
 cd client
 npm install
